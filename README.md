@@ -23,9 +23,9 @@ poetry install
 
 ### Gaussian Process Regression
 
-```python
+```sh
 cd gaussian_process
-poetry run python gp_regression_1d.ipynb
+poetry run jupyter notebook notebooks/gp_regression_1d.ipynb
 ```
 
 <img src="./media/gpr_1d.png" width="500px" alt="gaussian process regression (1 dim)">
@@ -33,8 +33,8 @@ poetry run python gp_regression_1d.ipynb
 
 ### Bayesian Optimization
 
-```python
+```sh
 cd gaussian_process
-poetry run python bayesian_optimization_1d.ipynb
+poetry run jupyter notebook notebooks/bayesian_optimization_1d.ipynb
 ```
 
