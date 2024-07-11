@@ -38,3 +38,4 @@ cd gaussian_process
 poetry run python bayesian_optimization_1d.ipynb
 ```
 
+https://github.com/MizuhoAOKI/gaussian_process/assets/63337525/36b2d534-8d9f-4a5e-b26d-dc41e0032590
