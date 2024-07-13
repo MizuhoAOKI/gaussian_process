@@ -54,3 +54,9 @@ poetry run jupyter notebook notebooks/bayesian_optimization_2d.ipynb
 
 https://github.com/user-attachments/assets/6e01d71f-f5d6-4ca8-90a3-6792bac1da56
 
+```sh
+cd gaussian_process
+poetry run jupyter notebook notebooks/bayesian_optimization_path_tracking.ipynb
+```
+
+https://github.com/user-attachments/assets/6d2cbb48-3d44-46c5-ba76-3fc29aa1ca1d
