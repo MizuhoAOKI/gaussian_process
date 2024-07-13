@@ -52,5 +52,5 @@ cd gaussian_process
 poetry run jupyter notebook notebooks/bayesian_optimization_2d.ipynb
 ```
 
-https://github.com/user-attachments/assets/9bc23d47-b13b-40db-8813-6a9031d9e674
+https://github.com/user-attachments/assets/6e01d71f-f5d6-4ca8-90a3-6792bac1da56
 
