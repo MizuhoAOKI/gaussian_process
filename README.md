@@ -46,3 +46,11 @@ poetry run jupyter notebook notebooks/bayesian_optimization_1d.ipynb
 ```
 
 https://github.com/MizuhoAOKI/gaussian_process/assets/63337525/36b2d534-8d9f-4a5e-b26d-dc41e0032590
+
+```sh
+cd gaussian_process
+poetry run jupyter notebook notebooks/bayesian_optimization_2d.ipynb
+```
+
+https://github.com/user-attachments/assets/9bc23d47-b13b-40db-8813-6a9031d9e674
+
