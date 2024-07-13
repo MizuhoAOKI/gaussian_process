@@ -31,6 +31,13 @@ poetry run jupyter notebook notebooks/gp_regression_1d.ipynb
 <img src="./media/gpr_1d.png" width="500px" alt="gaussian process regression (1 dim)">
 
 
+```sh
+cd gaussian_process
+poetry run jupyter notebook notebooks/gp_regression_2d.ipynb
+```
+<img src="./media/gpr_2d_prediction.png" width="500px" alt="gaussian process regression (2 dim)">
+
+
 ### Bayesian Optimization
 
 ```sh
