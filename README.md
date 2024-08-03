@@ -16,7 +16,7 @@
 ```sh
 git clone https://github.com/MizuhoAOKI/gaussian_process.git
 cd gaussian_process
-rye install
+rye sync
 ```
 
 ## Usage
