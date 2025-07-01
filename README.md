@@ -65,6 +65,6 @@ https://github.com/user-attachments/assets/6d2cbb48-3d44-46c5-ba76-3fc29aa1ca1d
 
 Great textbooks to learn Gaussian Process:
 
-- 持橋大地, 大羽成征 (2019). ガウス過程と機械学習. 講談社（MLP機械学習プロフェッショナルシリーズ）
+- [持橋大地, 大羽成征 (2019). ガウス過程と機械学習. 講談社（MLP機械学習プロフェッショナルシリーズ）](https://www.kodansha.co.jp/book/products/0000147677)
 - [Rasmussen, C. E., & Williams, C. K. I. (2006). *Gaussian Processes for Machine Learning*. MIT Press](https://gaussianprocess.org/gpml/)
 - [Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*. Springer (PDF via Microsoft Research)](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
